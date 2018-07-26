@@ -2,7 +2,7 @@ Courier is used by almost everyone nowadays. The courier companies rely heavily 
 transportation and delivery. 
 
 A courier company is facing an issue of employee absenteeism, this project deals with predicting employee absenteeism 
-so that company can take measures to reduce the employee absenteeism.
+so that company can take measures to reduce the employee absenteeism, we have built regresssion model to resolve this issue. 
 
 Below is a description of project files:
 
